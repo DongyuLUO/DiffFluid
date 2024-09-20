@@ -1,2 +1,2 @@
-# DiffFluid
-About code release of "DiffFluid: Plain Diffusion Models are Effective Predictors of Flow Dynamics"
+# Coming soon!
+Codes will be released soon. Please star or watch this repository so you can check back later.
